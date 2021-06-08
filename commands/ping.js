@@ -5,10 +5,9 @@ module.exports = {
 
     run: async (client, message, args) => {
 
-        client.embed.send({
-            title: "hey!",
-            desc: "pong!"
-        },  message.channel, message)
+        message.send({
+            title: "Pong!"
+        },  message.channel)
 
     },
 };

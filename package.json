@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "dotwood.js": "^1.1.0"
+    "dotwood.js": "^1.3.0"
   }
 }
